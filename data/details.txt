@@ -1,0 +1,1 @@
+This directory mainly contains sampling data during training.
