@@ -33,16 +33,15 @@ A implement of PGGAN for tensorflow version(progressive growing GANs for improve
   - Sampling process is executed in training time. You can see the sampling results in the directory named sample
 
 # Experiments
-  The result shows below, we can clearly obtain such a good experimental result.
+  The result shows below, we can clearly obtain such a good experimental result. Here I just show you two types rsolution including 64*64 and 128*128, the first four columns in 64*64 images are sampling data while the other four columns are real images. This is the same for 128*128 images.
   
-  |Input image|Output image|
+  |sampling image|sampling image|
   |:-----------------:|:----------------:|
-  |![Alt test](/data/A_input_1.png)|![Alt test](/data/A_output_1.png)||
-  |![Alt test](/data/A_input_2.png)|![Alt test](/data/A_output_2.png)||
-  |![Alt test](/data/A_input_3.png)|![Alt test](/data/A_output_3.png)||
+  |![Alt test](/data/64_64_1.png)|![Alt test](/data/64_64_2.png)|
+  |64_64 resolution|64_64 resolution||
+  |![Alt test](/data/128_128_1.png)|![Alt test](/data/128_128_2.png)|
+  |64_64 resolution|64_64 resolution||
   
-  waiting for uploading!!!
-
 # Reference
 
   This repo is finished by referring to [github-pengge/PyTorch-progressive_growing_of_gans](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans/blob/master/README.md)
