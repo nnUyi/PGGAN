@@ -38,9 +38,9 @@ A implement of PGGAN for tensorflow version(progressive growing GANs for improve
   |sampling image|sampling image|
   |:-----------------:|:----------------:|
   |![Alt test](/data/64_64_1.png)|![Alt test](/data/64_64_2.png)|
-  |64_64 resolution|64_64 resolution||
+  |64*64 resolution|64*64 resolution||
   |![Alt test](/data/128_128_1.png)|![Alt test](/data/128_128_2.png)|
-  |64_64 resolution|64_64 resolution||
+  |128*128 resolution|128*128 resolution||
   
 # Reference
 
