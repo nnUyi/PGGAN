@@ -33,7 +33,9 @@ A implement of PGGAN for tensorflow version(progressive growing GANs for improve
   - Sampling process is executed in training time. You can see the sampling results in the directory named sample
 
 # Experiments
-  The result shows below, we can clearly obtain such a good experimental result. Here I just show you two types rsolution including 64*64 and 128*128, the first four columns in 64*64 images are sampling data while the other four columns are real images. This is the same for 128*128 images.
+  - The result shows below, we can clearly obtain such a good experimental result. 
+  
+  - Here I just show you two types rsolution including 64_64 and 128_128, the first four columns in 64_64 images are sampling data while the other four columns are real images. This is the same for 128_128 images.
   
   |sampling image|sampling image|
   |:-----------------:|:----------------:|
